@@ -1,0 +1,19 @@
+.red__dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: absolute;
+  left: 30px;
+  bottom: 27px;
+}
+
+.screen-header__icons > div {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  top: 50px;
+}
